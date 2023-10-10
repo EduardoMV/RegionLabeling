@@ -29,6 +29,7 @@ Run the executable, providing the path to the input image:
 
 ```bash
 ./region_detection path/to/your/image.png
+```
 
 ## Result
 
